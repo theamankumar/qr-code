@@ -1,5 +1,7 @@
 import pyqrcode
 import png
+import tkinter
+import PIL
 from tkinter import *
 from PIL import Image, ImageTk
 
