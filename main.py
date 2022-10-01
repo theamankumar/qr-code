@@ -14,7 +14,7 @@ def Generate():
 
 root = Tk()
 root.title('QR Code Generator')
-root.geometry("500x500")
+root.geometry("600x600")
 
 my_text=Label(root, text="Enter the Link:")
 my_text.pack(pady=20)
